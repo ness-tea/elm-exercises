@@ -4,7 +4,7 @@ Assignments and exercises coded in Elm.
 To compile and run any of the modules:
 
 1. Install [Elm](https://guide.elm-lang.org/install/elm.html).
-2. Open your cmd or powershell and create a directory at any chosen directory path:
+2. Open your ```cmd``` or ```powershell``` and create a directory at any chosen directory path:
 ```
 mkdir <project_folder_name>
 ```
