@@ -1,5 +1,5 @@
 # elm-practice
-Assignments for the course 4HC3 [HCI Design] at McMaster University.
+Elm assignments for the course 4HC3 [HCI Design] at McMaster University.
 
 To compile and run any of the modules:
 
